@@ -1,7 +1,7 @@
 # KFC Restaurant Information
 
 ## General Information
-Welcome to Huzi! We are dedicated to serving our customers with the best quality food and excellent service.
+Welcome to Huzi-Cafe! We are dedicated to serving our customers with the best quality food and excellent service.
 
 ## Timings
 - Monday to Thursday: 10:00 AM - 11:00 PM

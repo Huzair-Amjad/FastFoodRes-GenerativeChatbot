@@ -27,8 +27,8 @@ prompt_template = PromptTemplate(
 chain = LLMChain(llm=llm, prompt=prompt_template)
 
 # Streamlit UI
-st.title("Welcome to Huzi Chatbot...")
-st.write("Ask me anything about Huzi!")
+st.title("Welcome to Huzi-Cafe Generative-Chatbot...")
+st.write("Ask me anything about Huzi_Cafe!")
 
 question = st.text_input("Query:")
 if question:
