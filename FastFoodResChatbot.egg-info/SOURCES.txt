@@ -1,0 +1,8 @@
+README.md
+setup.py
+FastFoodResChatbot.egg-info/PKG-INFO
+FastFoodResChatbot.egg-info/SOURCES.txt
+FastFoodResChatbot.egg-info/dependency_links.txt
+FastFoodResChatbot.egg-info/requires.txt
+FastFoodResChatbot.egg-info/top_level.txt
+src/__init__.py

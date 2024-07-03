@@ -1,0 +1,65 @@
+# KFC Restaurant Information
+
+## General Information
+Welcome to Huzi! We are dedicated to serving our customers with the best quality food and excellent service.
+
+## Timings
+- Monday to Thursday: 10:00 AM - 11:00 PM
+- Friday: 10:00 AM - 12:00 AM
+- Saturday: 9:00 AM - 12:00 AM
+- Sunday: 9:00 AM - 10:00 PM
+
+## Special Foods
+- Original Recipe Chicken: Our signature fried chicken with 11 herbs and spices.
+- Hot & Spicy Chicken: A spicy twist on our classic recipe.
+- Zinger Burger: A crispy, spicy chicken fillet sandwich.
+- Popcorn Chicken: Bite-sized, boneless pieces of crispy chicken.
+
+## Deals
+- Family Bucket: 8 pieces of Original Recipe Chicken, 4 biscuits, 2 large sides - $20.99
+- Chicken Combo: 2 pieces of chicken, 1 side, 1 biscuit, 1 drink - $8.99
+- Zinger Meal: Zinger Burger, 1 side, 1 drink - $7.99
+
+## Midnight Deals
+- Midnight Chicken Bucket: 6 pieces of Original Recipe Chicken, 2 sides, 2 biscuits - $15.99
+- Late Night Snack: 10 pieces of Hot Wings, 1 large fries - $12.99
+
+## Contact Information
+- Address: 123 KFC Lane, Food City, FC 12345
+- Phone: (123) 456-7890
+- Email: contact@kfcrestaurant.com
+
+## Frequently Asked Questions
+### What are your opening hours?
+Our opening hours are Monday to Thursday from 10:00 AM to 11:00 PM, Friday from 10:00 AM to 12:00 AM, Saturday from 9:00 AM to 12:00 AM, and Sunday from 9:00 AM to 10:00 PM.
+
+### Do you offer any vegetarian options?
+Yes, we offer a variety of vegetarian options including our Veggie Burger, Corn on the Cob, and various salads.
+
+### What are your current deals?
+We have several deals including the Family Bucket for $20.99, Chicken Combo for $8.99, and Zinger Meal for $7.99.
+
+### Do you have any late-night deals?
+Yes, we offer midnight deals such as the Midnight Chicken Bucket for $15.99 and the Late Night Snack for $12.99.
+
+### How can I contact you?
+You can reach us at (123) 456-7890 or email us at contact@kfcrestaurant.com. Our address is 123 KFC Lane, Food City, FC 12345.
+
+### Do you have delivery services?
+Yes, we offer delivery services through various platforms like Uber Eats, DoorDash, and our own KFC delivery service.
+
+### What payment methods do you accept?
+We accept cash, credit cards, debit cards, and mobile payments like Apple Pay and Google Pay.
+
+### Are there any special promotions for birthdays?
+Yes, we offer a special birthday deal where you can get a free dessert with any meal purchase on your birthday. Just show a valid ID to redeem this offer.
+
+### Do you offer catering services?
+Yes, we provide catering services for events and parties. Please contact us at (123) 456-7890 for more details and to make arrangements.
+
+### Is there a loyalty program?
+Yes, we have a loyalty program called KFC Rewards. Sign up on our website or app to earn points with every purchase and redeem them for discounts and free items.
+
+### Are there any gluten-free options?
+Yes, we offer several gluten-free options including our Grilled Chicken, Green Beans, and Coleslaw.
+
