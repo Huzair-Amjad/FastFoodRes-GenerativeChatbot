@@ -1,4 +1,4 @@
-# KFC Restaurant Information
+# Huzi-Cafe Restaurant Information
 
 ## General Information
 Welcome to Huzi-Cafe! We are dedicated to serving our customers with the best quality food and excellent service.
